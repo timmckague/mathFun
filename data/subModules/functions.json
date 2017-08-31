@@ -1,0 +1,41 @@
+[
+	{
+		"name": "Domain and range",
+		"questionsURL": "/questions/domainAndRange.json",
+		"module": "Functions",
+		"keyPoints": [
+			{
+				"point": "0 is not allowed in the denominator",
+				"triggerQuestion": 4
+			},
+			{
+				"point": "You can't take the square root of a negative number",
+				"triggerQuestion": 8
+			}
+		],
+		"definitions":[
+			{
+				"definition": "The domain of a function is the set of all inputs for which the function is defined.",
+				"triggerQuestion":10
+			},
+			{
+				"definition": "The range of a function is the set of all possible ouputs.",
+				"triggerQuestion":16
+			}
+		]
+	},
+	{
+		"name": "Limits 1",
+		"questionsURL": "/questions/limits1.json",
+		"module": "Functions",
+		"keyPoints": [],
+		"definitions":[]
+	},
+	{
+		"name": "Limits 2",
+		"questionsURL": "/questions/limits2.json",
+		"module": "Functions",
+		"keyPoints": [],
+		"definitions":[]
+	}
+]
