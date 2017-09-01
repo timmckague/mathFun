@@ -5,7 +5,7 @@
 		"questionType": "multipleChoice",
 		"answerOptions": ["a", "25", "1000"],
 		"answer": "a",
-		"correctResponse": "Nice ",
+		"correctResponse": “This is a test to see if I understand commits ",
 		"wrongResponse": "No",
 		"hints": []
 	},
