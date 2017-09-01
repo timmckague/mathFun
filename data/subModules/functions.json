@@ -27,14 +27,14 @@
 	{
 		"name": "Limits 1",
 		"questionsURL": "/questions/limits1.json",
-		"module": "Functions",
+		"module": “Limits”,
 		"keyPoints": [],
 		"definitions":[]
 	},
 	{
 		"name": "Limits 2",
 		"questionsURL": "/questions/limits2.json",
-		"module": "Functions",
+		"module": “Limits”,
 		"keyPoints": [],
 		"definitions":[]
 	}
