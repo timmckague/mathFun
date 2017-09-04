@@ -1,5 +1,4 @@
-[
-	{
+
 		"name": "Domain and range",
 		"questionsURL": "/questions/domainAndRange.json",
 		"module": "Functions",
@@ -23,39 +22,3 @@
 				"triggerQuestion":16
 			}
 		]
-	},
-	{
-		"name": "Limits 1",
-		"questionsURL": "/questions/limits1.json",
-		"module": “Limits”,
-		"keyPoints": [],
-		"definitions”:[
-		
-			{
-		
-				"definition": "A left hand limit is the value the function approaches from left to right, as in the figure -- ",
-				"triggerQuestion":2
-			},
-			{
-				"definition": "A right hand limit is" 
-				"trigger":3 
-			
-			}
-		]
-	},
-	{
-		"name": "Limits 2",
-		"questionsURL": "/questions/limits2.json",
-		"module": “Limits”,
-		"keyPoints": [
-		
-			{ "point": "",
-			  "triggerQuestion": ""
-		
-			}
-		
-		
-		],
-		"definitions":[]
-	}
-]
