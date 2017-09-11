@@ -1,0 +1,13 @@
+{
+	"name":"Pre-Calculus",
+	"modules":[
+	   {
+		  "name":"Functions",
+		  "url":"/modules/functionsModule.json"
+	   },
+	   {
+		  "name":"Limits",
+		  "url":"/modules/limitsModule.json"
+	   }
+	]
+ }

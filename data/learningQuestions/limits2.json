@@ -28,5 +28,6 @@
 		"correctResponse": "Nice ",
 		"wrongResponse": "No",
 		"hints": []
-	},
+	}
+}
 	
