@@ -1,4 +1,4 @@
-
+{
 		"name": "Domain and range",
 		"questionsURL": "/questions/domainAndRange.json",
 		"module": "Functions",
@@ -22,3 +22,4 @@
 				"triggerQuestion":16
 			}
 		]
+}
