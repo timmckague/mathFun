@@ -1,8 +1,7 @@
 [
-	{
-		"name": "Functions",
-		"course": "Pre-Calculus",
-		"subModulesURL": "/subModules/functions.json"
-	}
+  {
+    "name": "Functions",
+    "course": "Pre-Calculus",
+    "subModulesURL": "/subModules/functions.json"
+  }
 ]
-

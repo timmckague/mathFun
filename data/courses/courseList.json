@@ -1,7 +1,6 @@
 [
-    {
-	"name": "Pre-Calculus",
-	"courseURL": "/modules/preCalculus.json"
-    }
+  {
+    "name": "Pre-Calculus",
+    "courseURL": "/modules/preCalculus.json"
+  }
 ]
-

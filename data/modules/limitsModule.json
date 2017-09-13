@@ -1,17 +1,17 @@
-{  
-	"name":"Limits",
-	"subModules":[  
-	   {  
-		  "name":"Limits 1",
-		  "url":"/subModules/limits1.json"
-	   },
-	   {  
-		  "name":"Limits 2",
-		  "url":"/subModules/limits1.json"
-	   },
-	   {  
-		  "name":"Limits 3",
-		  "url":"/subModules/limits1.json"
-	   }
-	]
- }
+{
+  "name":"Limits",
+  "subModules":[
+    {
+      "name":"Limits 1",
+      "url":"/subModules/limits1.json"
+    },
+    {
+      "name":"Limits 2",
+      "url":"/subModules/limits1.json"
+    },
+    {
+      "name":"Limits 3",
+      "url":"/subModules/limits1.json"
+    }
+  ]
+}

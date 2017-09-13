@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple server for the math-fun app",
   "scripts": {
-    "serve": "pushd .\\data\\; python -m http.server 8000"
+    "serve": "pushd data; python -m http.server 8000"
   },
   "author": "Tim McKague",
   "license": "ISC"
