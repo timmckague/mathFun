@@ -2,5 +2,21 @@
   {
     "name": "Pre-Calculus",
     "courseURL": "/modules/preCalculus.json"
+  },
+  {
+    "name": "Calculus",
+    "courseURL": "/modules/preCalculus.json"
+  },
+  {
+    "name": "Post-Calculus",
+    "courseURL": "/modules/preCalculus.json"
+  },
+  {
+    "name": "Mathy McMath",
+    "courseURL": "/modules/preCalculus.json"
+  },
+  {
+    "name": "English...",
+    "courseURL": "/modules/preCalculus.json"
   }
 ]
