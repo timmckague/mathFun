@@ -1,7 +1,9 @@
-[
-  {
-    "name": "Functions",
-    "course": "Pre-Calculus",
-    "subModulesURL": "/subModules/functions.json"
-  }
-]
+{
+  "name":"Functions",
+  "subModules":[
+    {
+      "name":"Domain and range",
+      "url":"/subModules/domainAndRange.json"
+    }
+  ]
+}

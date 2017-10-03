@@ -6,5 +6,7 @@
     "serve": "pushd data; python -m http.server 8000"
   },
   "author": "Tim McKague",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+  }
 }

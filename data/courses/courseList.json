@@ -1,6 +1,22 @@
 [
   {
     "name": "Pre-Calculus",
-    "courseURL": "/modules/preCalculus.json"
+    "courseURL": "/courses/preCalculus.json"
+  },
+  {
+    "name": "Calculus",
+    "courseURL": "/courses/preCalculus.json"
+  },
+  {
+    "name": "Post-Calculus",
+    "courseURL": "/courses/preCalculus.json"
+  },
+  {
+    "name": "Mathy McMath",
+    "courseURL": "/courses/preCalculus.json"
+  },
+  {
+    "name": "English...",
+    "courseURL": "/courses/preCalculus.json"
   }
 ]
