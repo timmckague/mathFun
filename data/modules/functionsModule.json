@@ -1,9 +1,0 @@
-{
-  "name":"Functions",
-  "subModules":[
-    {
-      "name":"Domain and range",
-      "url":"/subModules/domainAndRange.json"
-    }
-  ]
-}
