@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Domain and range",
+    "questionsURL": "/questions/domainAndRange.json",
+    "module": 1,
+    "keyPoints": [
+      {
+        "point": "0 is not allowed in the denominator",
+        "triggerQuestion": 4
+      },
+      {
+        "point": "You can't take the square root of a negative number",
+        "triggerQuestion": 8
+      }
+    ],
+    "definitions":[
+      {
+        "definition": "The domain of a function is the set of all inputs for which the function is defined.",
+        "triggerQuestion":10
+      },
+      {
+        "definition": "The range of a function is the set of all possible ouputs.",
+        "triggerQuestion":16
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name":"limits1",
+    "questionsURL":"/questions/limits1.json",
+    "module":2,
+    "keyPoints":[
+      {
+        "point":"a limit of the form 1/0 is called a limit that does not exist. ",
+        "triggerQuestion":3
+      },
+      {
+        "point":"always remember that lim x->3 (x-1)=2. Informally, plug in the limiting value of x when it is permitted."
+      },
+      {
+        "definition":"The notation lim x->a f(x) is denoting the value f(x) approaches as x—>a",
+        "triggerQuestion":1
+      },
+      {
+        "definition":"always remember that lim x->2 (x+3)(x-2)/(x-2)=5. That is, common terms in the numerator and denominator can be eliminated in the limit.",
+        "triggerQuestion":4
+      }
+    ],
+    "preReqMaterial":[
+      {
+        "preReq":"This question assumes you know how to factor; e.g. x^2+4x+3=(x+1)(x+3)",
+        "triggerQuestion":3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name":"Limits 2",
+    "questionsURL":"/questions/limits2.json",
+    "module":2,
+    "keyPoints":[
+      {
+        "point":"When a square root appears on the numerator",
+        "triggerQuestion":1
+      },
+      {
+        "point":"divide by highest power",
+        "triggerQuestion":3
+      }
+    ],
+    "definitions":[
+
+    ]
+  },
+  {
+    "id": 4,
+    "name":"Limits 3",
+    "questionsURL":"/questions/limits3.json",
+    "module":2,
+    "keyPoints":[
+      {
+        "point":"if the left hand limit does not equal the right hand limit, the limit does not exist",
+        "triggerQuestion":2
+      }
+    ],
+    "definitions":[
+      {
+        "definition":"A left hand limit is the value the function approaches from left to right, as in the figure --",
+        "triggerQuestion":2
+      },
+      {
+        "definition":"A right hand limit is",
+        "trigger":3
+      }
+    ]
+  }
+]

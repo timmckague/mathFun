@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "course": 1,
+    "name": "Functions",
+  },
+  {
+    "id": 2,
+    "course": 1,
+    "name": "Limits",
+  }
+  {
+    "id": 3,
+    "course": 2,
+    "name": "Derivatives",
+  },
+  {
+    "id": 4,
+    "course": 2,
+    "name": "Integration",
+  },
+  {
+    "id": 5,
+    "course": 3,
+    "name": "Winning",
+  },
+  {
+    "id": 6,
+    "course": 3,
+    "name": "Flying",
+  }
+]

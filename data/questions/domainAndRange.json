@@ -1,0 +1,264 @@
+{
+  "1":{
+    "submodule":"Domain and range",
+    "question":"If 5 is inputted into x^2, what is the output?",
+    "questionType":"multipleChoice",
+    "answerOptions":[
+      "5",
+      "25",
+      "1000"
+    ],
+    "answer":"25",
+    "correctResponse":"Nice job!",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+
+    ]
+  },
+  "2":{
+    "submodule":"Domain and range",
+    "question":"If 2 is inputted into 1/x, what is the output?",
+    "questionType":"multipleChoice",
+    "answerOptions":[
+      "1/2",
+      "0",
+      "1"
+    ],
+    "answer":"1/2",
+    "correctResponse":"Nice job!",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+
+    ]
+  },
+  "3":{
+    "submodule":"Domain and range",
+    "question":"If 0 is inputted into 1/x, what is the output?",
+    "questionType":"multipleChoice",
+    "answerOptions":[
+      "1",
+      "2",
+      "undefined"
+    ],
+    "answer":"undefined",
+    "correctResponse":"Nice job!",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+
+    ]
+  },
+  "4":{
+    "submodule":"Domain and range",
+    "question":"0 is in the domain of 1/x",
+    "questionType":"trueOrFalse",
+    "answer":"False",
+    "correctResponse":"Yes, 1/0 is undefined. Therefore 0 is not in the domain of 1/x",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+
+    ]
+  },
+  "5":{
+    "submodule":"Domain and range",
+    "question":"What value of x makes 1/(x-1) undefined?",
+    "questionType":"multipleChoice",
+    "answerOptions":[
+      "1",
+      "-1,",
+      "0"
+    ],
+    "answer":"1",
+    "correctResponse":"Nice job!",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+      "What value of x makes x-1 equal to 0?"
+    ]
+  },
+  "6":{
+    "submodule":"Domain and range",
+    "question":"What values of x make 1/((x-1)(x+3)) undefined?",
+    "questionType":"multipleChoice",
+    "answerOptions":[
+      "1 and -1",
+      "1 and 3",
+      "1 and -3"
+    ],
+    "answer":"1 and -3",
+    "correctResponse":"Nice job!",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+
+    ]
+  },
+  "7":{
+    "submodule":"Domain and range",
+    "question":"If 4 is inputted into sqrt(x), what is the output",
+    "questionType":"multipleChoice",
+    "answerOptions":[
+      "1",
+      "2",
+      "4"
+    ],
+    "answer":"2",
+    "correctResponse":"Nice job!",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+
+    ]
+  },
+  "8":{
+    "submodule":"Domain and range",
+    "question":"sqrt{-1} is undefined",
+    "questionType":"trueOrFalse",
+    "answer":"True",
+    "correctResponse":"Nice job!",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+
+    ]
+  },
+  "9":{
+    "submodule":"Domain and range",
+    "question":"-1 is in the domain of sqrt{x}",
+    "questionType":"trueOrFalse",
+    "answer":"False",
+    "correctResponse":"The square root of a negative number is undefined.",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+
+    ]
+  },
+  "10":{
+    "submodule":"Domain and range",
+    "question":"What is the domain of a function",
+    "questionType":"multipleChoice",
+    "answerOptions":[
+      "The set of inputs for which the function is defined",
+      "the set of inputs for which the function is undefined",
+      "all values of x"
+    ],
+    "answer":"the set of inputs for which the function is defined",
+    "correctResponse":"Nice job!",
+    "wrongResponse":"Nope! Try again",
+    "Hints":[
+
+    ]
+  },
+  "11":{
+    "submodule":"Domain and range",
+    "question":"If f(x)=x^2, what input produces an output of 4?",
+    "questionType":"multipleChoice",
+    "answerOptions":[
+      "1",
+      "2",
+      "4"
+    ],
+    "answer":"2",
+    "correctResponse":"Nice job!",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+      "What number squares to 4?"
+    ]
+  },
+  "12":{
+    "submodule":"Domain and range",
+    "question":"4 is in the range of x^2",
+    "questionType":"trueOrFalse",
+    "answer":"True",
+    "correctResponse":"Yes, 4 is one possible output of the function x^2",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+
+    ]
+  },
+  "14":{
+    "submodule":"Domain and range",
+    "question":"If f(x)=x^2, what input produes an output of -1?",
+    "questionType":"multipleChoice",
+    "answerOptions":[
+      "1",
+      "2",
+      "not possible"
+    ],
+    "answer":"not possible",
+    "correctResponse":"Yes, x^2 is always positive!",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+
+    ]
+  },
+  "15":{
+    "submodule":"Domain and range",
+    "question":"-1 is in the range of x^2",
+    "questionType":"trueOrFalse",
+    "answer":"False",
+    "correctResponse":"-1 is not a possible output of x^2",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+
+    ]
+  },
+  "16":{
+    "submodule":"Domain and range",
+    "question":"What is the range of a function",
+    "questionType":"multipleChoice",
+    "answerOptions":[
+      "The set of possible outputs",
+      "all values of x",
+      "the values where f(x) is undefined"
+    ],
+    "answer":"The set of possible outputs",
+    "correctResponse":"Nice job!",
+    "wrongResponse":"Nope! Try again",
+    "hints":[
+
+    ]
+  },
+  "17":{
+    "submodule":"Domain and range",
+    "question":"Which of the following corresponds to the graph of ln(x)?",
+    "questionType":"multipleChoice",
+    "answerOptions":[
+      "(",
+      "C",
+      "U"
+    ],
+    "answer":"C",
+    "correctResponse":"Nice job!",
+    "wrongResponse":"You're a fucking idiot.",
+    "hints":[
+
+    ]
+  },
+  "18":{
+    "submodule":"Domain and range",
+    "question":"This is the graph of ln(x): -- . In red is the domain of ln(x): -- What is the domain of ln(x)?",
+    "questionType":"multipleChoice",
+    "answerOptions":[
+      "x>0",
+      "x<0",
+      "x=0"
+    ],
+    "answer":"x>0",
+    "correctResponse":"Whatever",
+    "wrongResponse":"You're a fucking idiot.",
+    "hints":[
+
+    ]
+  },
+  "19":{
+    "submodule":"Domain and range",
+    "question":"This is the graph of sin(x): -- . Slide the graph pi/2 units to the right: -- good. What is the domain on sin(x)?",
+    "questionType":"multipleChoice",
+    "answerOptions":[
+      "x>0",
+      "x<0",
+      "x=0"
+    ],
+    "answer":"x>0",
+    "correctResponse":"Whatever",
+    "wrongResponse":"You're a fucking idiot.",
+    "hints":[
+    ]
+  }
+}
