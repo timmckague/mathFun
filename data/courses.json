@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "name": "Pre-Calculus",
+    "name": "Pre-Calculus"
   },
   {
     "id": 2,
-    "name": "Calculus",
+    "name": "Calculus"
   },
   {
     "id": 3,
-    "name": "Post-Calculus",
+    "name": "Post-Calculus"
   }
 ]
