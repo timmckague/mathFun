@@ -137,7 +137,7 @@
       "the set of inputs for which the function is undefined",
       "all values of x"
     ],
-    "answer":"the set of inputs for which the function is defined",
+    "answer":"The set of inputs for which the function is defined",
     "correctResponse":"Nice job!",
     "wrongResponse":"Nope! Try again",
     "Hints":[
