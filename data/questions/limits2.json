@@ -1,5 +1,5 @@
-{
-  "1":{
+[
+  {
     "submodule": "Limits 2",
     "question": "What is the limit fo f(x)=x-2?",
     "questionType": "multipleChoice",
@@ -9,7 +9,7 @@
     "wrongResponse": "No",
     "hints": []
   },
-  "2":{
+  {
     "submodule": "Limits 2",
     "question": "What is the limit of f(x)=(x-2)(x-4)/(x-4)",
     "questionType": "multipleChoice",
@@ -19,7 +19,7 @@
     "wrongResponse": "No",
     "hints": []
   },
-  "3":{
+  {
     "submodule": "Limits 2",
     "question": "What is limit of f(x)=sin(x)",
     "questionType": "multipleChoice",
@@ -29,4 +29,4 @@
     "wrongResponse": "No",
     "hints": []
   }
-}
+]

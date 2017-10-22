@@ -1,5 +1,5 @@
-{
-  "1":{
+[
+  {
     "submodule":"Limits 1",
     "question":"Let f(x)=x^2, which of the following is the graph of f(x)?",
     "questionType":"multipleChoice",
@@ -15,7 +15,7 @@
 
     ]
   },
-  "2":{
+  {
     "submodule":"Limits 1",
     "question":"Point to f(2) on the graph below",
     "questionType":"multipleChoice",
@@ -31,7 +31,7 @@
 
     ]
   },
-  "3":{
+  {
     "submodule":"Limits 1",
     "question":"Correct, this is the point (2,4): --. Now click the point (0,0).",
     "questionType":"multipleChoice",
@@ -47,7 +47,7 @@
 
     ]
   },
-  "4":{
+  {
     "submodule":"Limits 1",
     "question":"Let's look at what happens when we move these two points close to each other, as shown with the blue arrow below. The blue arrow is represetnting appraching from the right. Draw approaching from the left.",
     "questionType":"drawing",
@@ -63,7 +63,7 @@
 
     ]
   },
-  "5":{
+  {
     "submodule":"Limits 1",
     "question":"The red arrow in the graph below is describing:",
     "questionType":"multipleChoice",
@@ -79,4 +79,4 @@
       "Hello how are you."
     ]
   }
-}
+]
