@@ -2,7 +2,6 @@
   {
     "id": 1,
     "name": "Domain and range",
-    "questionsURL": "/questions/domainAndRange.json",
     "module": 1,
     "keyPoints": [
       {
@@ -28,7 +27,6 @@
   {
     "id": 2,
     "name":"limits1",
-    "questionsURL":"/questions/limits1.json",
     "module":2,
     "keyPoints":[
       {
@@ -57,7 +55,6 @@
   {
     "id": 3,
     "name":"Limits 2",
-    "questionsURL":"/questions/limits2.json",
     "module":2,
     "keyPoints":[
       {
@@ -76,7 +73,6 @@
   {
     "id": 4,
     "name":"Limits 3",
-    "questionsURL":"/questions/limits2.json",
     "module":2,
     "keyPoints":[
       {
