@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "color": "red",
     "name": "Domain and range",
     "grouping": "Functions",
     "course": 1,
@@ -28,6 +29,7 @@
   {
     "id": 2,
     "name":"limits1",
+    "color": "skyblue",
     "grouping": "Limits",
     "course": 1,
     "keyPoints":[
@@ -57,6 +59,7 @@
   {
     "id": 3,
     "name":"Limits 2",
+    "color": "powderblue",
     "grouping": "Limits",
     "course": 1,
     "keyPoints":[
@@ -77,6 +80,7 @@
     "id": 4,
     "name":"Limits 3",
     "grouping": "Limits",
+    "color": "purple",
     "course": 1,
     "keyPoints":[
       {
